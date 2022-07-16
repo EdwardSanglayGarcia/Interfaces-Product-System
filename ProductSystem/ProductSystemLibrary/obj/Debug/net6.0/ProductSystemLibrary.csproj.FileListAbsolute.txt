@@ -1,0 +1,12 @@
+C:\Users\Edward\Documents\Repositories\ProductSystem\ProductSystemLibrary\bin\Debug\net6.0\ProductSystemLibrary.deps.json
+C:\Users\Edward\Documents\Repositories\ProductSystem\ProductSystemLibrary\bin\Debug\net6.0\ProductSystemLibrary.dll
+C:\Users\Edward\Documents\Repositories\ProductSystem\ProductSystemLibrary\bin\Debug\net6.0\ProductSystemLibrary.pdb
+C:\Users\Edward\Documents\Repositories\ProductSystem\ProductSystemLibrary\obj\Debug\net6.0\ProductSystemLibrary.csproj.AssemblyReference.cache
+C:\Users\Edward\Documents\Repositories\ProductSystem\ProductSystemLibrary\obj\Debug\net6.0\ProductSystemLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edward\Documents\Repositories\ProductSystem\ProductSystemLibrary\obj\Debug\net6.0\ProductSystemLibrary.AssemblyInfoInputs.cache
+C:\Users\Edward\Documents\Repositories\ProductSystem\ProductSystemLibrary\obj\Debug\net6.0\ProductSystemLibrary.AssemblyInfo.cs
+C:\Users\Edward\Documents\Repositories\ProductSystem\ProductSystemLibrary\obj\Debug\net6.0\ProductSystemLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Edward\Documents\Repositories\ProductSystem\ProductSystemLibrary\obj\Debug\net6.0\ProductSystemLibrary.dll
+C:\Users\Edward\Documents\Repositories\ProductSystem\ProductSystemLibrary\obj\Debug\net6.0\refint\ProductSystemLibrary.dll
+C:\Users\Edward\Documents\Repositories\ProductSystem\ProductSystemLibrary\obj\Debug\net6.0\ProductSystemLibrary.pdb
+C:\Users\Edward\Documents\Repositories\ProductSystem\ProductSystemLibrary\obj\Debug\net6.0\ref\ProductSystemLibrary.dll
